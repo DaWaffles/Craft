@@ -21,7 +21,7 @@ use pocketmine\network\mcpe\protocol\types\WindowTypes;
 
 class CraftCommand extends PluginCommand{
 	
-	/** @var array */
+	/** @var Main */
 	public $plugin;
 
 	public function __construct($name, Main $plugin) {
