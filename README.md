@@ -1,6 +1,6 @@
 # Craft
 Allows you to have portable crafting. 
 
-#Command
+# Command
 /craft
 Opens a crafting table.
